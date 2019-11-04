@@ -1,4 +1,7 @@
+Hi,
 
-# About the project
+I'm happy to learn someting about coding and R program. For now this is my first course in this topic and I'm really looking forward to learn someting useful. :)
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+This is my link to GitHub repository: https://github.com/natywna/IODS-project
+
+-natywna
